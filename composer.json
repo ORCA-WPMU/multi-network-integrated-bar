@@ -1,0 +1,16 @@
+{
+	"name": "f5sites/multi-network-integrated-bar",
+	"description": "Just put it on mu-plugins of each wpmu install and configure e style it editing the single file php code. WordPress F5 Sites DEV projects.",
+	"type": "wordpress-muplugin",
+	"authors": [
+		{
+			"name": "Francisco Matelli Matulovic",
+			"email": "francisco@f5sites.com",
+			"homepage": "http://franciscomat.com"
+		}
+	],
+	"require": {
+    		"composer/installers": "~1.0",
+	        "php": ">=5.2.4"
+        }
+}
